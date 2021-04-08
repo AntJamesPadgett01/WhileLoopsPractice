@@ -1,0 +1,15 @@
+C:\Users\antho\repos\WhileLoopsPractice\bin\Debug\net5.0\WhileLoopsPractice.exe
+C:\Users\antho\repos\WhileLoopsPractice\bin\Debug\net5.0\WhileLoopsPractice.deps.json
+C:\Users\antho\repos\WhileLoopsPractice\bin\Debug\net5.0\WhileLoopsPractice.runtimeconfig.json
+C:\Users\antho\repos\WhileLoopsPractice\bin\Debug\net5.0\WhileLoopsPractice.runtimeconfig.dev.json
+C:\Users\antho\repos\WhileLoopsPractice\bin\Debug\net5.0\WhileLoopsPractice.dll
+C:\Users\antho\repos\WhileLoopsPractice\bin\Debug\net5.0\ref\WhileLoopsPractice.dll
+C:\Users\antho\repos\WhileLoopsPractice\bin\Debug\net5.0\WhileLoopsPractice.pdb
+C:\Users\antho\repos\WhileLoopsPractice\obj\Debug\net5.0\WhileLoopsPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\repos\WhileLoopsPractice\obj\Debug\net5.0\WhileLoopsPractice.AssemblyInfoInputs.cache
+C:\Users\antho\repos\WhileLoopsPractice\obj\Debug\net5.0\WhileLoopsPractice.AssemblyInfo.cs
+C:\Users\antho\repos\WhileLoopsPractice\obj\Debug\net5.0\WhileLoopsPractice.csproj.CoreCompileInputs.cache
+C:\Users\antho\repos\WhileLoopsPractice\obj\Debug\net5.0\WhileLoopsPractice.dll
+C:\Users\antho\repos\WhileLoopsPractice\obj\Debug\net5.0\ref\WhileLoopsPractice.dll
+C:\Users\antho\repos\WhileLoopsPractice\obj\Debug\net5.0\WhileLoopsPractice.pdb
+C:\Users\antho\repos\WhileLoopsPractice\obj\Debug\net5.0\WhileLoopsPractice.genruntimeconfig.cache
